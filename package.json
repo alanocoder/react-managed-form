@@ -1,0 +1,21 @@
+{
+  "name": "react-managed-form",
+  "version": "0.1.0",
+  "description": "slim react component to manage form inputs and validation.",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "tsc && echo 'Finished building NPM package \"react-managed-form\"'"
+  },
+  "author": "Alan Chan",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "peerDependencies": {
+    "react": "^15.0.0-0 || ^16.0.0-0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.13",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "typescript": "^3.0.3"
+  }
+}
